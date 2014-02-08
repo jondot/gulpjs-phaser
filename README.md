@@ -14,13 +14,16 @@ tooling.
 
 ## Getting started
 
+You need to have [node.js](http://nodejs.org/) installed on your machine.
+
+
 1. Install the [Chrome live-reload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=en) extension
 
 2. Set up your project:
 
   ```
   $ git clone git@github.com:jondot/gulpjs-phaser.git && cd gulpjs-phaser
-  $ npm install
+  $ npm install -g gulp && npm install
   $ ./build
   $ open http://localhost:3000
   ```
