@@ -32,7 +32,9 @@ tooling.
 
 Fork, implement, add tests, pull request, get my everlasting thanks and a respectable place here :).
 
+## Thanks
 
+* Build inspired by [this post](http://filmic.eu/blog/build-a-web-project-using-gulpjs/)
 
 
 # Copyright
