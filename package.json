@@ -1,0 +1,28 @@
+{
+  "name": "gulpjs-phaser",
+  "author": {
+    "name": "Dotan Nahum",
+    "email": "jondotan@gmail.com",
+    "url": "http://github.com/jondot/gulpjs-phaser"
+  },
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "connect": "~2.12.0",
+    "gulp": "~3.5.0",
+    "gulp-coffee": "~1.4.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-livereload": "~0.3.0",
+    "gulp-sass": "~0.6.0",
+    "gulp-uglify": "~0.2.0",
+    "gulp-util": "~2.2.13",
+    "tiny-lr": "0.0.5",
+    "coffee-script": "~1.7.1",
+    "gulp-browserify": "~0.4.0",
+    "coffeeify": "~0.6.0",
+    "gulp-imagemin": "~0.1.4",
+    "optipng-bin": "~0.3.1"
+  },
+  "repository": {}
+}
