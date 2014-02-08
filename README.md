@@ -22,6 +22,7 @@ tooling.
   $ git clone git@github.com:jondot/gulpjs-phaser.git && cd gulpjs-phaser
   $ npm install
   $ ./build
+  $ open http://localhost:3000
   ```
 
 3. Edit your code and watch everything update automagically.
